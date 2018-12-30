@@ -1,0 +1,66 @@
+/*
+Laks v0.0.1
+Created by Laks Team :)
+*/
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+body {
+  margin:0;
+}
+a {
+text-decoration: none;
+color: black;
+}
+a:hover {
+  color:  #0066cc;
+}
+/*
+Blog Template
+
+Still a W-I-P, May be changed/added more to it later!
+
+- Laks team.
+*/
+.blog-template {
+margin-left: 400px;
+}
+header {
+  padding: 10px;
+}
+header h1 {
+  font-family: Roboto, serif;
+  font-size: 75px;
+  color: white;
+  text-align: center;
+}
+header p {
+text-align: center;
+color: white;
+font-family: Roboto, serif;
+font-size: 25px;
+}
+.blog-space {
+  height: 100px;
+}
+.blog-div {
+  border-bottom: 2px solid #F0FFF0;
+  width: 200px;
+}
+.blog-header-blog {
+  height: 50px;
+}
+.blog-post-name {
+font-family: Montserrat, serif;
+font-size: 50px;
+}
+.blog-short-desc {
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 25px;
+}
+.blog-post-date {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  color: gray;
+}
